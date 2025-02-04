@@ -473,6 +473,8 @@ impl KeyboardWithFallback {
                 | Keysym::ISO_Level5_Shift
                 | Keysym::ISO_Level3_Latch
                 | Keysym::ISO_Level5_Latch
+                | Keysym::Hyper_L
+                | Keysym::Hyper_R
         )
     }
 
